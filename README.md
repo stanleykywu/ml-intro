@@ -13,3 +13,6 @@ source {path to the venv}/bin/activate
 
 ## Serve CLIP locally to use as an API
 `fastapi dev clip.py`
+
+### Test the API (can insert this into any part of your project)
+`python3 test-fastapi-clip.py`
