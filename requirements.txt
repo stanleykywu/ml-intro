@@ -1,4 +1,9 @@
-numpy
 jupyter
+ipywidgets
+ipykernel
+open-clip-torch
 torch
-transformers
+torchvision
+torchaudio
+fastapi
+numpy<2
